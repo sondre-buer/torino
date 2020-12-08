@@ -108,3 +108,9 @@ body{
 	width: 31%;
 	margin: auto;
 }
+.spons img{
+	opacity: 0.4;
+}
+.spons img:hover{
+	opacity: 1;
+}
